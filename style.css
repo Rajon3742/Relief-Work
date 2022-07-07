@@ -126,14 +126,20 @@ section{
   transition: 1s;
   background-color: red;
 }
-.subscribe-form{
-  width: 60%;
-  display: flex;
-  background-color: darkcyan;
+#we-update{
+  text-align: center;
+}
+.update-section{
+  width: 50%;
+  background-color:bisque;
+  padding: 100px;
 }
 .background{
-  font-family: 'Great Vibes', cursive;;
+  color:brown;
   text-align: center;
-  padding: 70px 20px 70px 20px;
-  background-color:darkolivegreen;
+  padding: 50px 20px 50px 20px;
+  background-color:black;
+}
+#text{
+  color: aliceblue;
 }
